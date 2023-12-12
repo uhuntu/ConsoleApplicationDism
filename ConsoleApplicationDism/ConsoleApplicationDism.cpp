@@ -3,9 +3,19 @@
 
 #include <iostream>
 
+int basic();
+int driver();
+int feature();
+
 int main()
 {
     std::cout << "Hello World!\n";
+
+    //basic();
+
+    //driver();
+
+    feature();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
